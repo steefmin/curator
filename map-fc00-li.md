@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["cjdns"]
 date = "2016-05-11T13:12:33+02:00"
 draft = false
 title = "map.fc00.li, visualizing hyperboria part 2"
