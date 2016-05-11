@@ -3,7 +3,6 @@ categories = []
 date = "2016-05-02T10:17:01+02:00"
 draft = true
 title = "notes"
-
 +++
 
 inurl:"ipfs.io/ipfs/"

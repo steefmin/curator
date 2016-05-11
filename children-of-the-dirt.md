@@ -3,7 +3,6 @@ categories = []
 date = "2016-05-02T12:49:52+02:00"
 draft = true
 title = "children of the dirt"
-
 +++
 
 "The Children of the Dirt" by Simon Rich
