@@ -1,5 +1,5 @@
 +++
-categories = ["IPFS"]
+categories = ["IPFS","meta"]
 date = "2016-04-25T15:32:28+02:00"
 title = "old versions"
 +++
@@ -38,4 +38,6 @@ The older versions of this site :
 2016-05-11: [/ipfs/QmTLDJrB4iaa9ZHX1NDdaPz6xt2QmMoxLybAMqGZq9LVkY](http://ipfs.io/ipfs/QmTLDJrB4iaa9ZHX1NDdaPz6xt2QmMoxLybAMqGZq9LVkY)
 
 2016-05-11: [/ipfs/QmRsNSZzj4ho1PPy18XMRSzDcDgpBa5JBu7BEn85Rt2GP5](http://ipfs.io/ipfs/QmRsNSZzj4ho1PPy18XMRSzDcDgpBa5JBu7BEn85Rt2GP5)
+
+2016-05-11: [/ipfs/QmQ64DBin7z3yRHgFWKHtuMBisUv4x8tr2Kn2p2J42p3Ra](http://ipfs.io/ipfs/QmQ64DBin7z3yRHgFWKHtuMBisUv4x8tr2Kn2p2J42p3Ra)
 
