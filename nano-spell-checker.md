@@ -1,8 +1,8 @@
 +++
 categories = ["commandline","note to self"]
-date = "2016-04-29T10:41:57+02:00"
+date = "2016-05-12T09:04:44+02:00"
 title = "nano spell checker"
-draft = true
+draft = false
 +++
 
 Now I'll be doing a lot of more typing on my server and English is not my native language, a spell checker for my favorite command line editor `nano` will be a good idea. 
