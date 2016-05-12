@@ -8,8 +8,9 @@ The power of ipfs allows to generate a list of all previous publicated versions 
 
 The current version is always visible at:
 
--	cjdns: [curator.on.hyperboria.name](http://curator.on.hyperboria.name)
+-	clearnet: [curator.steefmin.xyz](http://curator.steefmin.xyz)
 -	IPFS: [/ipns/QmQFXJPSd8aW5yMVT8LgMzoTJpuAboLgbtGVEP6wnAf1oW](http://ipfs.io/ipns/QmQFXJPSd8aW5yMVT8LgMzoTJpuAboLgbtGVEP6wnAf1oW)
+-	cjdns: [curator.h.steefmin.xyz](http://curator.h.steefmin.xyz)
 -   cjdns: [[fc0e:528c:fc27:ce74:ca46:24d6:c9f5:90d6]](http://[fc0e:528c:fc27:ce74:ca46:24d6:c9f5:90d6]/)
 
 The older versions of this site :
@@ -21,7 +22,6 @@ The older versions of this site :
 2016-04-28: [/ipfs/QmTQuMZQgwxYhSKhpMwd8XHbXGLnsG8QdS94xey2Dwd866](http://ipfs.io/ipfs/QmTQuMZQgwxYhSKhpMwd8XHbXGLnsG8QdS94xey2Dwd866)
 
 2016-04-29: [/ipfs/QmYd3TJRxe3v24SVhioEgBJU7e9bz48wYgbGaTqZsBWW3L](http://ipfs.io/ipfs/QmYd3TJRxe3v24SVhioEgBJU7e9bz48wYgbGaTqZsBWW3L)
-
 
 2016-05-01: [/ipfs/QmUqmoqbavLBqN5ZQusoTWSjZDgbCHpuhHXU9nWZWJJAhA](http://ipfs.io/ipfs/QmUqmoqbavLBqN5ZQusoTWSjZDgbCHpuhHXU9nWZWJJAhA)
 
@@ -42,4 +42,6 @@ The older versions of this site :
 2016-05-11: [/ipfs/QmQ64DBin7z3yRHgFWKHtuMBisUv4x8tr2Kn2p2J42p3Ra](http://ipfs.io/ipfs/QmQ64DBin7z3yRHgFWKHtuMBisUv4x8tr2Kn2p2J42p3Ra)
 
 2016-05-11: [/ipfs/QmQySfnay6E2Mgsk1Y2zgNy3f3CWdMosUqEabJy7ze18qD](http://ipfs.io/ipfs/QmQySfnay6E2Mgsk1Y2zgNy3f3CWdMosUqEabJy7ze18qD)
+
+2016-05-12: [/ipfs/QmbJhNdK7sfQdPsME9DMTvpzu9G5WShrSZkjCmMXJBmiKo](http://ipfs.io/ipfs/QmbJhNdK7sfQdPsME9DMTvpzu9G5WShrSZkjCmMXJBmiKo)
 
