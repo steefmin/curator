@@ -2,6 +2,7 @@
 categories = ["IPFS","cjdns"]
 date = "2016-04-26T13:49:32+02:00"
 title = "a distributed world"
+description = "Distributed networks"
 +++
 
 Distributed networks fascinate me. The way that the network is truely supported and held up by the nodes, in stead of the backbone. In retrospect it should have been the way that systems were designed in the first place. The resilience: fails one of the nodes, then it's only the problem of that failing node. Other traffic will route around the problem and still arrive at the destination. There are many projects trying to achieve this. The one I'm most interested in is [cjdns](https://github.com/cjdelisle/cjdns). 
