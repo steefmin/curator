@@ -57,3 +57,5 @@ The older versions of this site :
 
 2016-05-26: [/ipfs/QmTe33DswjpZogJmY6wnqzBGpuHXssGT2JBPbKtGiuM3GQ](http://ipfs.io/ipfs/QmTe33DswjpZogJmY6wnqzBGpuHXssGT2JBPbKtGiuM3GQ)
 
+2016-05-26: [/ipfs/Qma8Y4M1PUrJDQgDByBNYrEkXQRRj8R96mTisNqv4JY96y](http://ipfs.io/ipfs/Qma8Y4M1PUrJDQgDByBNYrEkXQRRj8R96mTisNqv4JY96y)
+
