@@ -55,3 +55,5 @@ The older versions of this site :
 
 2016-05-26: [/ipfs/QmRLirTPRQ4N5C3dy3MpK76aMSDcW2F6A5iUTmA3SdA5Go](http://ipfs.io/ipfs/QmRLirTPRQ4N5C3dy3MpK76aMSDcW2F6A5iUTmA3SdA5Go)
 
+2016-05-26: [/ipfs/QmTe33DswjpZogJmY6wnqzBGpuHXssGT2JBPbKtGiuM3GQ](http://ipfs.io/ipfs/QmTe33DswjpZogJmY6wnqzBGpuHXssGT2JBPbKtGiuM3GQ)
+
