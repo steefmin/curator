@@ -64,3 +64,5 @@ The older versions of this site :
 
 2016-06-07: [/ipfs/QmYiAS4h5kQeuybjP3zokFLkRxC7PVSRenxQXhtt3XsijV](http://ipfs.io/ipfs/QmYiAS4h5kQeuybjP3zokFLkRxC7PVSRenxQXhtt3XsijV)
 
+2016-06-10: [/ipfs/QmUSTVtwpURCfS8WMLo5Nu8jGy1396adcUox8SWdeLh7vH](http://ipfs.io/ipfs/QmUSTVtwpURCfS8WMLo5Nu8jGy1396adcUox8SWdeLh7vH)
+
